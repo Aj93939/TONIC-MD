@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "add session here",
+SESSION_ID: process.env.SESSION_ID || "TONIC-MD~nMoGGJha#FE4tbd_VTVBvU_8uo_bNjBA_qx3p782obym4D0rkbUU",
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "false",
 // make true or false status auto seen
@@ -48,7 +48,7 @@ PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
 // make false if want private mod
 AUTO_TYPING: process.env.AUTO_TYPING || "false",
 // true for automatic show typing   
-DEV: process.env.DEV || "263783866754",
+DEV: process.env.DEV || "18768489691",
 //replace with your whatsapp number        
 ANTI_VV: process.env.ANTI_VV || "true",
 // true for anti once view
